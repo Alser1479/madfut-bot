@@ -1,16 +1,14 @@
 {
-    "botToken": "",
-    "guildId": "968990759246233700",
-    "adminChannelId": "999685599869030450",
-    "moderatorRoleId": "987456515105493064",
-    "tradingChannelId": "992827677654392882",
-    "coinFlipChannelId": "992827717668065300",
-    "commandsChannelId": "992827614240714842",
-    "giveawayPingRoleId": "987456575033712650",
-    "appCheckToken": "dad",
-    "madfutEmail": "",
-    "madfutPassword": "",
-    "shoppySecret": "",
-    "shopLogChannelId": ""
+  "bottoken": "<BOT_TOKEN>",
+  "guildid": "<GUILD_ID>",
+  "commandschannelid": "<COMMANDS_CHANNEL_ID>",
+  "autogiveawaychannelid": "<AUTO_GIVEAWAY_CHANNEL_ID>",
+  "adminroleid": "<ADMIN_ROLE_ID>",
+  "joinrewardamount": 10,
+  "botpermspaylimit": 100,
+  "botpermsroleid": "<BOT_PERMS_ROLE_ID>",
+  "premiumspinroleid": "",
+  "serverownerid": "<SERVER_OWNER_ID>",
+  "smoqlogchannelid": "<LOG_CHANNEL_ID>",
+  "appchecktoken": ""
 }
-
